@@ -9,6 +9,7 @@ serhan2004/serhan2004 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+--> Github da yeniyim garip birşey yaptıysam dalga geçmeyin hocam
 --> ALWAYS BLACKPILLED :(
 --> EAT, SLEEP, CODE
 
